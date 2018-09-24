@@ -1,5 +1,3 @@
-# README #
+# MISS (MIPS Instruction Set Simulator)
 
-This code offers an partially-completely update to SimpleMIPS-0.1 to replace its partially complete ELF parsing code, to add simple mechanism for instruction trace generation, and addition of a few new instructions.
-
-Original source code is here (author is unknown)  http://code.google.com/p/mipsim-python/downloads/detail?name=SimpleMIPS-0.1.py
+This is an update to [here](http://code.google.com/p/mipsim-python/downloads/detail?name=SimpleMIPS-0.1.py) adding the parsing of ELF executables, a mechanism for instruction trace generation, and support for a few new instructions. I don't recall my changes being 100% complete.
